@@ -1,4 +1,4 @@
-package pi_token_go
+package greetings
 
 import "fmt"
 
